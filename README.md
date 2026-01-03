@@ -1,4 +1,6 @@
-[[!Code_Pulse](https://github.com/Coderxrohan/control-pulse/blob/main/public/Control%20Pulse.png)]
+<p align="center">
+  <img src="./assets/logo.png" alt="ControlPulse Logo" width="300">
+</p>
 
 # Linux Process & Resource Monitor
 
