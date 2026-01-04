@@ -39,8 +39,6 @@ The system is designed in modular layers:
 - **Analyzer**: Detects anomalies, trends, and failure patterns
 - **CLI**: Presents insights in a clear, operator-friendly format
 
-See [`docs/architecture.md`](docs/architecture.md) for details.
-
 ## Project Status
 
 🚧 Early development — APIs and internal design may evolve.
