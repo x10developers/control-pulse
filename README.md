@@ -50,3 +50,8 @@ See [`docs/architecture.md`](docs/architecture.md) for details.
 ```bash
 git clone https://github.com/Coderxrohan/control-pulse.git
 cd control-pulse
+```
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
